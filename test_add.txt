@@ -1,11 +1,5 @@
 test add funtion of Git
 
-love Mondays!
-
-love Fridays
 
 
-
-
-
-obamacare is great!
+Git's *-a* removes the need for git add - saves a step
