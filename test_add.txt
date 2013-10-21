@@ -1,3 +1,5 @@
 test add funtion of Git
 
 love Mondays!
+
+love Fridays
