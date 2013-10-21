@@ -20,3 +20,6 @@ $ echo 'test content' > test.txt  	"create a txt file"
 $ echo 'more content' > more.txt  	"create a txt file"
 $ git add *.txt				"add both with "*""
 $ git commit -m 'added two files'	"commit"
+
+
+change
