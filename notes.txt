@@ -1,0 +1,25 @@
+/*
+
+How to deal with branches
+
+*/
+
+
+>>>> git branch "list your available branches"
+
+>>>> git branch (branchname) "create a new branch"
+
+>>>> git checkout -b (branchname) "create and immediately switch to a branch"
+
+>>>> git branch -d (branchname) "delete a branch"
+
+>>>> git push (remote-name) :(branchname) "delete a remote branch"
+
+
+$ echo 'test content' > test.txt  	"create a txt file"
+$ echo 'more content' > more.txt  	"create a txt file"
+$ git add *.txt				"add both with "*""
+$ git commit -m 'added two files'	"commit"
+
+
+chnaged on git hub
