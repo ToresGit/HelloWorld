@@ -22,4 +22,4 @@ $ git add *.txt				"add both with "*""
 $ git commit -m 'added two files'	"commit"
 
 
-change
+new change
